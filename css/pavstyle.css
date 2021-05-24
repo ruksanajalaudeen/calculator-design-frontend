@@ -1,0 +1,71 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+body{
+background-repeat: no-repeat;
+  background-size: cover;
+
+ }
+ .cal{
+    border: 1px;
+    border-color: black;
+    height:20em;
+    width:12em;
+    margin-left: 15%;
+  margin-right:40%;
+  margin-top: 6%;
+  background-color:black;
+  }
+  
+
+.b2{
+    width:238px;
+    background-color:black;
+    /*font-size: 12pt;*/
+    font-weight: bolder;
+    padding: 5%;
+
+}
+.b3{
+    width:238px;
+    background-color:black;
+    /*font-size: 12pt;*/
+    font-weight: bolder;
+    padding: 5%;
+    
+}
+.b4{
+    width:239px;
+    background-color:black;
+    /*font-size: 12pt;*/
+    font-weight: bolder;
+    padding: 5%;
+}
+.b5{
+    width:238px;
+    background-color:black;
+    /*font-size: 12pt;*/
+    font-weight: bolder;
+    padding: 5%;
+}
+
+    button{
+        width:50px;
+        padding:10px;
+        /*border-radius: 22px;*/
+        /*font-size: px;*/
+        color:white;
+        /*font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;*/
+    font-size:200;
+    border-color: white;
+    background-color: black;
+    }
+
+    input{
+        size:60;
+        border-color:black;
+    }
+
+}*/
